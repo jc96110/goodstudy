@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "description": "",
+    "name": "老三源",
+    "description": "找到我你就是最棒的！",
     "tint": "",
-    "cname": "",
+    "cname": "jc96110.github.io/goodstudy",
     "maintainer": {
-        "name": "",
-        "email": ""
+        "name": "licc",
+        "email": "lijc@mail.com"
     },
     "automatic_git": ""
 }

@@ -1,12 +1,12 @@
-Origin: 
-Label: 
+Origin: 老三源
+Label: 老三源
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 
+Description: 找到我你就是最棒的！
 
 SHA256:
- 080df6dee8b0b0495cc5d7f73bc3db79fea5bbde89f650d42ba025b16ac4c6e5 589 Packages.bz2
- 0b320cbb23e4c20c41e43709d41ffaa1c4030e7d513b501c9096830644064ff2 588 Packages.xz
+ e47efb32e89fd0fd5e9c15b3b842fa563174b56e4619d495daff78694e2256e6 619 Packages.bz2
+ b7ef4f4b1fffe8037cdefce348799159b61d112710f59f739bfd71240986864d 608 Packages.xz
